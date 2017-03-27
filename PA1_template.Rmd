@@ -1,3 +1,9 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
 # Reproducible Research Week 2: Assignment 1
 
 ## Step 1: Code for reading in the dataset and/or processing the data
